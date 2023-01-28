@@ -1,7 +1,7 @@
 /* eslint-disable */
-export const show = (display, hide, hideToo) => {
-	document.getElementById(display).style.display = 'block';
-	document.getElementById(hide).style.display = 'none';
-	document.getElementById(hideToo).style.display = 'none';
+export const show = (shown, hidden, hiddenToo) => {
+	document.getElementById(shown).style.display = 'block';
+	document.getElementById(hidden).style.display = 'none';
+	document.getElementById(hiddenToo).style.display = 'none';
 	return false;
 };
