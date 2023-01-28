@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://rana-mudassir.github.io/Awesome-books/)
+- [Live Demo Link]( https://rana-mudassir.github.io/Awesome-books-ES6.github.io/ )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
