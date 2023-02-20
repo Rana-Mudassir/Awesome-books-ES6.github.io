@@ -46,6 +46,9 @@
 - **[Responsive]**
 - **[Dynamic-Pages]**
 
+## 🔭 Future Features <a name="future-features"></a>
+
+ **Graphical styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
